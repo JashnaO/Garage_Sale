@@ -1,0 +1,9 @@
+head {
+    text-align: center;
+}
+
+#buy {
+    background-color: orange;
+    border-color: white;
+    color: white;
+}
